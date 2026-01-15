@@ -1,0 +1,3 @@
+#!/bin/bash
+gcc thread-server.c -o server
+gcc thread-client.c -o client
